@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Михаил\source\repos\Lab5_OS\Lab5_OS_PROCESS\main.cpp(31,25): warning C4302: приведение типов: усечение из "LPWSTR" к "char"
+  Создание кода
+  54 of 85 functions (63.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab5_OS_PROCESS.vcxproj -> C:\Users\Михаил\source\repos\Lab5_OS\Release\Lab5_OS_PROCESS.exe

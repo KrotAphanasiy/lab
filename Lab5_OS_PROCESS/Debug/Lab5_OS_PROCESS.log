@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Михаил\source\repos\Lab5_OS\Lab5_OS_PROCESS\main.cpp(33,6): warning C4101: bytesSent: неиспользованная локальная переменная
+  Lab5_OS_PROCESS.vcxproj -> C:\Users\Михаил\source\repos\Lab5_OS\Debug\Lab5_OS_PROCESS.exe

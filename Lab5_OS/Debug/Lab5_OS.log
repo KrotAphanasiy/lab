@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Михаил\source\repos\Lab5_OS\Lab5_OS\main.cpp(82,6): warning C4101: numbytes: неиспользованная локальная переменная
+C:\Users\Михаил\source\repos\Lab5_OS\Lab5_OS\main.cpp(81,7): warning C4101: ans: неиспользованная локальная переменная
+  Lab5_OS.vcxproj -> C:\Users\Михаил\source\repos\Lab5_OS\Debug\Lab5_OS.exe

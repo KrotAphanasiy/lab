@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Михаил\source\repos\Lab5_OS\Lab5_OS\main.cpp(62,7): warning C4101: numbytes: неиспользованная локальная переменная
+C:\Users\Михаил\source\repos\Lab5_OS\Lab5_OS\main.cpp(61,8): warning C4101: ans: неиспользованная локальная переменная
+C:\Users\Михаил\source\repos\Lab5_OS\Lab5_OS\main.cpp(63,8): warning C4101: read: неиспользованная локальная переменная
+  Создание кода
+  1 of 307 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    52 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab5_OS.vcxproj -> C:\Users\Михаил\source\repos\Lab5_OS\Release\Lab5_OS.exe
